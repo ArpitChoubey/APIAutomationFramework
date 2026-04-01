@@ -1,4 +1,4 @@
-# 🚀 API Automation Framework (Rest Assured)
+# 🚀REST API Automation Framework JAVA Rest Assured
 
 This repository contains a **robust and scalable API Automation Framework** built using **Rest Assured**, **TestNG**, **Maven**, **Log4j2**, and **Extent Reports**. The framework is designed for maintainability, readability, and reusability.
 
